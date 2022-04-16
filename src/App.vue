@@ -5,8 +5,13 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <div class="bg-green-900 w-1/8 p-10 h-auto rounded-lg">
+  <img src="./assets/img/me.jpg" class="object-contain m-auto w-3/12 mb-10 rounded-lg" alt="me">
+  <p> Zulfikri Abdullah</p>
+  <p>20FTT1446</p>
+  <p> 23 Years Old</p>
+  <p> </p>
+  </div>
 </template>
 
 <style>
@@ -15,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: Black;
   margin-top: 60px;
 }
 </style>
