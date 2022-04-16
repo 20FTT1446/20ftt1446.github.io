@@ -11,7 +11,6 @@ import HelloWorld from './components/HelloWorld.vue'
   <p>20FTT1446</p>
   <p> 23 Years Old</p>
   <p> </p>
-  <h1> Bahit was here</h1>
   </div>
 </template>
 
