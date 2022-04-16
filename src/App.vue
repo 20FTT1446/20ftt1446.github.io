@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <p> Zulfikri Abdullah</p>
   <p>20FTT1446</p>
   <p> 23 Years Old</p>
-  <p> </p>
+  <p> Diploma in Web Development </p>
   </div>
 </template>
 
